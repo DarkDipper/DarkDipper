@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DarkDipper&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkDipper&theme=tokyonight)
@@ -23,4 +24,6 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DarkDipper&row=1&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DarkDipper&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarkDipper&theme=tokyonight)
