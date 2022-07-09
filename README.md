@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkDipper&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkDipper&theme=dracula&date_format=d%20F[%20Y])](https://git.io/streak-stats)
