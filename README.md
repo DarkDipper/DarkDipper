@@ -54,9 +54,10 @@ Here are some ideas to get you started:
 ## Git hub stats
 ### 🔥 Streak Stats & Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DarkDipper&theme=algolia"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DarkDipper&theme=algolia"
+style="max-width:60%;max-height:100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDipper&theme=algolia&layout=compact" style="max-width:40%;max-height:100%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkDipper&theme=algolia&date_format=d%20F[%20Y]"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDipper&theme=algolia&layout=compact">
 </p>
 
 ---
