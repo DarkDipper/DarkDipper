@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkDipper&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkDipper&theme=tokyonight&date_format=d%20F[%20Y])](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=DarkDipper&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDipper&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
