@@ -16,25 +16,22 @@ Here are some ideas to get you started:
 
 -->
 ---
-### Libraries & Framework :
-### Tools:
-### Git hub stats
-## 🔥 Streak Stats & Languages
-<p float="left"> 
-	<img src="https://github-readme-stats.vercel.app/api?username=DarkDipper&theme=algolia"/>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkDipper&theme=algolia&date_format=d%20F[%20Y]"/>
-</p>
-
+## Libraries & Framework :
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+## Tools:
+## Git hub stats
+### 🔥 Streak Stats & Languages
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkDipper&theme=algolia) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkDipper&theme=algolia&date_format=d%20F[%20Y])](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDipper&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-## 🏆 Trophies
+### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=DarkDipper&row=1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-## ⚡ Recent GitHub Activity
+###⚡ Recent GitHub Activity
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DarkDipper&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
