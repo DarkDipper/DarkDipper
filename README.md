@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkDipper&theme=algolia&date_format=d%20F[%20Y]"/>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkDipper&theme=algolia) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkDipper&theme=algolia&date_format=d%20F[%20Y])](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkDipper&theme=algolia) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkDipper&theme=algolia&date_format=d%20F[%20Y])](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDipper&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
