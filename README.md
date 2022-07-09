@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <div>
 🌍  I'm based in Viet Nam
     
-✉️  You can contact me at
+✉️  You can contact me by
     
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huynhthanhphong0931@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009169309130)
