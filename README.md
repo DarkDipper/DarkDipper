@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub 😄
 
 <!--
 **DarkDipper/DarkDipper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,24 +13,28 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DarkDipper&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 -->
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkDipper&theme=tokyonight)
+### Libraries & Framework :
+### Tools:
+### Git hub stats
+## 🔥 Streak Stats & Languages
+<p float="left"> 
+	<img src="https://github-readme-stats.vercel.app/api?username=DarkDipper&theme=algolia"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkDipper&theme=algolia&date_format=d%20F[%20Y]"/>
+</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkDipper&theme=algolia) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkDipper&theme=algolia&date_format=d%20F[%20Y])](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDipper&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkDipper&theme=chartreuse-dark&date_format=d%20F[%20Y])](https://git.io/streak-stats)
+## 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=DarkDipper&row=1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDipper&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+## ⚡ Recent GitHub Activity
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DarkDipper&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DarkDipper&row=1&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarkDipper&theme=tokyonight)
-
-<a href="https://github.com/hgdsandakalum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgdsandakalum&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
-</a>
-<a href="https://github.com/hgdsandakalum">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hgdsandakalum&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Dananjaya's github stats" height="220px" />
-</a>
+---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!!&center=true&color="A7D129")](https://github.com/tanyagupta0201)
