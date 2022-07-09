@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkDipper&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkDipper&theme=tokyonight&date_format=d%20F[%20Y])](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDipper&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkDipper&theme=chartreuse-dark&date_format=d%20F[%20Y])](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDipper&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DarkDipper&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
