@@ -27,3 +27,10 @@ Here are some ideas to get you started:
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarkDipper&theme=tokyonight)
+
+<a href="https://github.com/hgdsandakalum">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgdsandakalum&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
+</a>
+<a href="https://github.com/hgdsandakalum">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=hgdsandakalum&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Dananjaya's github stats" height="220px" />
+</a>
