@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkDipper&theme=tokyonight)
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkDipper&theme=chartreuse-dark&row=1&date_format=d%20F[%20Y])](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkDipper&theme=chartreuse-dark&date_format=d%20F[%20Y])](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDipper&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DarkDipper&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DarkDipper&row=1&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DarkDipper&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
