@@ -53,14 +53,14 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ## Git hub stats
 ### 🔥 Streak Stats & Languages
-<p align="center">
+<pre align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=DarkDipper&theme=algolia"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkDipper&theme=algolia&date_format=d%20F[%20Y]"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDipper&theme=algolia&layout=compact"/>
-</p>
+</pre>
 
 ---
 ### 🏆 Trophies
@@ -72,4 +72,6 @@ Here are some ideas to get you started:
 ### ⚡ Recent GitHub Activity
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DarkDipper&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!!&center=true&color="A7D129")](https://github.com/tanyagupta0201)
+<p align="center">
+<img src='https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!!&center=true&color="A7D129"'/>
+</p>
